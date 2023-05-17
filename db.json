@@ -4,31 +4,7 @@
       "id": 1,
       "username": "tu",
       "password": "test"
-    },
-    {
-      "id": 2,
-      "username": "tuuu",
-      "password": "test"
-    },
-    {
-      "username": "test",
-      "password": "test",
-      "id": 3
-    },
-    {
-      "username": "dgfdg",
-      "password": "dfgdf",
-      "id": 4
-    },
-    {
-      "username": "dgfdg",
-      "password": "dfgdf",
-      "id": 5
-    },
-    {
-      "username": "hove",
-      "password": "1234",
-      "id": 6
     }
+    
   ]
 }
